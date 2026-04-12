@@ -17,7 +17,7 @@
 
 ---
 
-### Who I Am
+### Profile
 
 ```yaml
 name        : Aarush Agarwal
@@ -32,11 +32,11 @@ focus_areas :
   - Computer Vision & End-to-End AI Architectures
 
 currently   : Building a Medical NLP system with structured hallucination controls
-internships : Data Science (industry-level, production pipelines)
+internships : Data Science  —  industry-level, production pipelines
 exploring   : Advanced vector search · dense retrieval · hybrid RAG strategies
-open_to     : Research collaborations · AI/ML internships · open-source contribution
+open_to     : Research collaborations · AI/ML internships · open-source projects
 
-motto       : "A model that hallucinates confidently is worse than no model at all."
+motto       : "First, make it work. Then make it right. Then make it fast."
 ```
 
 <br/>
@@ -48,35 +48,37 @@ motto       : "A model that hallucinates confidently is worse than no model at a
 **Languages**
 
 [![Skills](https://skillicons.dev/icons?i=python,cpp,c,java&theme=dark)](https://skillicons.dev)
-&nbsp;
+&nbsp;&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 <br/>
 
-**AI / Machine Learning**
+**AI & Machine Learning**
 
 [![Skills](https://skillicons.dev/icons?i=tensorflow&theme=dark)](https://skillicons.dev)
-&nbsp;
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFA500?style=flat-square&logo=huggingface&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=graphql&logoColor=white)
+&nbsp;&nbsp;
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0A0A0A?style=flat-square&logoColor=white)
 ![GraphRAG](https://img.shields.io/badge/GraphRAG-5B21B6?style=flat-square)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 <br/>
 
-**Data Science & Visualization**
+**Data Science**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
 
 <br/>
 
 **Databases & Vector Stores**
 
-[![Skills](https://skillicons.dev/icons?i=postgres,neo4j&theme=dark)](https://skillicons.dev)
-&nbsp;
+[![Skills](https://skillicons.dev/icons?i=postgres&theme=dark)](https://skillicons.dev)
+&nbsp;&nbsp;
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4F00?style=flat-square)
 
 <br/>
@@ -84,21 +86,22 @@ motto       : "A model that hallucinates confidently is worse than no model at a
 **Dev & Operations**
 
 [![Skills](https://skillicons.dev/icons?i=docker,git&theme=dark)](https://skillicons.dev)
-&nbsp;
+&nbsp;&nbsp;
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 <br/>
 
 ---
 
-### Active Projects
+### Projects
 
-| Status | Project | Description |
-|--------|---------|-------------|
-| `ACTIVE` | **Medical Text Summarizer** | Hallucination-aware NLP pipeline for clinical text. Structured factual grounding with source attribution |
-| `ACTIVE` | **Multi-LLM Agent Framework** | LangGraph-based orchestration system with tool-use, memory, and multi-model routing |
-| `ACTIVE` | **GraphRAG Pipeline** | Neo4j knowledge graphs + dense vector retrieval for context-enriched generation |
-| `ONGOING` | **Computer Vision Systems** | End-to-end CV architectures for classification and object detection tasks |
+| Status | Project | Stack | Description |
+|--------|---------|-------|-------------|
+| `COMPLETED` | **Medical Text Summarizer** | `Python` `HuggingFace` `LangChain` | Hallucination-aware NLP pipeline for clinical text — structured factual grounding with source attribution |
+| `COMPLETED` | **Multi-LLM Agent Framework** | `LangGraph` `Python` `Docker` | Agent orchestration system with tool-use, persistent memory, and multi-model routing |
+| `COMPLETED` | **GraphRAG Pipeline** | `Neo4j` `ChromaDB` `LangChain` | Knowledge graph + dense vector retrieval for context-enriched generation |
+| `COMPLETED` | **Computer Vision System** | `TensorFlow` `Python` `Streamlit` | End-to-end CV architecture for classification and object detection at scale |
 
 <br/>
 
@@ -138,7 +141,7 @@ motto       : "A model that hallucinates confidently is worse than no model at a
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kratos999-athena&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kratos999-athena&theme=algolia&no-frame=true&no-bg=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -165,10 +168,20 @@ motto       : "A model that hallucinates confidently is worse than no model at a
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kratos999-athena/kratos999-athena/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kratos999-athena/kratos999-athena/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kratos999-athena/kratos999-athena/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/kratos999-athena/kratos999-athena/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-> To activate: add `.github/workflows/snake.yml` using [Platane/snk](https://github.com/Platane/snk) — it auto-generates the snake from your contribution graph every 24h.
+</div>
+
+<br/>
+
+---
+
+### 3D Contribution Calendar
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kratos999-athena/kratos999-athena/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 
 </div>
 
