@@ -1,114 +1,120 @@
+[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20,24&height=220&section=header&text=Aarush%20Agarwal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20B.Tech%20Student&descAlignY=58&descAlign=50&descSize=18&descColor=a8d8ff)](https://github.com/kratos999-athena)
+
 <div align="center">
 
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║              AARUSH AGARWAL  /  AI ENGINEER                  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=16&duration=3000&pause=800&color=38B6FF&center=true&vCenter=true&width=640&lines=Architecting+Multi-LLM+Agent+Systems;Building+GraphRAG+%26+Knowledge+Graph+Pipelines;Engineering+Medical+NLP+with+Hallucination+Controls;Research+at+the+Intersection+of+AI+%26+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=38B6FF&center=true&vCenter=true&width=700&lines=Building+Multi-LLM+Agent+Orchestration+Frameworks;Architecting+GraphRAG+%26+Knowledge+Graph+Pipelines;Engineering+Hallucination-Aware+Medical+NLP+Systems;Turning+Research+Papers+into+Production+Systems)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aarushagarwal2005)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aarushagarwal2005@gmail.com)
-[![CV](https://img.shields.io/badge/Download_CV-000000?style=flat-square&logo=read.cv&logoColor=white)](Aarush_Agarwal_CV.pdf)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=read.cv&logoColor=white)](Aarush_Agarwal_CV.pdf)
+![Profile Views](https://komarev.com/ghpvc/?username=kratos999-athena&style=flat-square&color=38b6ff&label=PROFILE+VIEWS)
 
 </div>
 
----
-
-<br/>
-
-## PROFILE
-
-B.Tech student operating at the intersection of **Generative AI**, **Machine Learning**, and **Systems Engineering**. My work focuses on architecting AI systems that are production-ready — not just experimentally sound.
-
-Currently building a **Medical Text Summarizer** with explicit hallucination-reduction strategies, and advancing in **multi-LLM agent orchestration** using LangGraph and GraphRAG pipelines. Alongside research, I apply these skills in professional **Data Science internships**, closing the gap between theory and deployment.
-
 <br/>
 
 ---
 
-## CURRENT FOCUS
+### Who I Am
 
+```yaml
+name        : Aarush Agarwal
+location    : India
+role        : AI Engineer & ML Researcher
+education   : B.Tech — Computer Science
+
+focus_areas :
+  - Multi-LLM Agent Systems & Orchestration (LangGraph)
+  - GraphRAG & Knowledge Graph Pipelines (Neo4j)
+  - Hallucination-Aware Medical Text Summarization
+  - Computer Vision & End-to-End AI Architectures
+
+currently   : Building a Medical NLP system with structured hallucination controls
+internships : Data Science (industry-level, production pipelines)
+exploring   : Advanced vector search · dense retrieval · hybrid RAG strategies
+open_to     : Research collaborations · AI/ML internships · open-source contribution
+
+motto       : "A model that hallucinates confidently is worse than no model at all."
 ```
-[ACTIVE]   Medical NLP Summarizer     —  Hallucination-aware architecture, clinical text processing
-[ACTIVE]   Multi-LLM Agent Framework  —  LangGraph orchestration, tool-use, memory management
-[ONGOING]  GraphRAG Systems           —  Neo4j knowledge graphs, retrieval-augmented generation
-[LEARNING] Advanced Vector Search     —  ChromaDB, dense retrieval, hybrid search strategies
-```
 
 <br/>
 
 ---
 
-## TECHNICAL STACK
+### Technical Stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=python,cpp,c,java&theme=dark)](https://skillicons.dev)
+&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 <br/>
 
-**AI & Machine Learning**
+**AI / Machine Learning**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFA500?style=flat-square&logo=huggingface&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=tensorflow&theme=dark)](https://skillicons.dev)
+&nbsp;
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFA500?style=flat-square&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=graphql&logoColor=white)
 ![GraphRAG](https://img.shields.io/badge/GraphRAG-5B21B6?style=flat-square)
 
 <br/>
 
-**Data Science**
+**Data Science & Visualization**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
 
 <br/>
 
 **Databases & Vector Stores**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=flat-square&logo=neo4j&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=postgres,neo4j&theme=dark)](https://skillicons.dev)
+&nbsp;
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4F00?style=flat-square)
 
 <br/>
 
-**Dev Tools & Operations**
+**Dev & Operations**
 
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=docker,git&theme=dark)](https://skillicons.dev)
+&nbsp;
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 <br/>
 
 ---
 
-## GITHUB ANALYTICS
+### Active Projects
+
+| Status | Project | Description |
+|--------|---------|-------------|
+| `ACTIVE` | **Medical Text Summarizer** | Hallucination-aware NLP pipeline for clinical text. Structured factual grounding with source attribution |
+| `ACTIVE` | **Multi-LLM Agent Framework** | LangGraph-based orchestration system with tool-use, memory, and multi-model routing |
+| `ACTIVE` | **GraphRAG Pipeline** | Neo4j knowledge graphs + dense vector retrieval for context-enriched generation |
+| `ONGOING` | **Computer Vision Systems** | End-to-end CV architectures for classification and object detection tasks |
+
+<br/>
+
+---
+
+### GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kratos999-athena&show_icons=true&theme=transparent&hide_border=true&title_color=38B6FF&icon_color=38B6FF&text_color=EBEBEB&bg_color=0D1117" width="48%" />
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kratos999-athena&theme=transparent&hide_border=true&background=0D1117&ring=38B6FF&fire=38B6FF&currStreakLabel=38B6FF&sideLabels=EBEBEB&dates=888888" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=kratos999-athena&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38B6FF&icon_color=38B6FF&text_color=c9d1d9" width="48%" />
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kratos999-athena&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38B6FF&fire=38B6FF&currStreakLabel=38B6FF" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kratos999-athena&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=38B6FF&text_color=EBEBEB" width="55%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kratos999-athena&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38B6FF&text_color=c9d1d9&langs_count=8" width="55%" />
 
 </div>
 
@@ -116,32 +122,56 @@ Currently building a **Medical Text Summarizer** with explicit hallucination-red
 
 ---
 
-## ENGINEERING PHILOSOPHY
-
-```
-01  Systems should be observable before they are optimized.
-02  A model that hallucinates confidently is worse than no model.
-03  Architecture decisions outlive implementation decisions.
-04  The best RAG pipeline is the one you can actually debug.
-05  Complexity earns its place. Everything else is removed.
-```
-
-<br/>
-
----
+### Contribution Activity
 
 <div align="center">
 
-`B.Tech Student  ·  AI/ML Engineer  ·  Open to Research Collaborations`
-
-<br/>
-
-![Visitor Count](https://profile-counter.glitch.me/kratos999-athena/count.svg)
-
-<br/>
-
-```
-Last updated: 2025  ·  Built with precision, not templates.
-```
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kratos999-athena&bg_color=0d1117&color=38b6ff&line=38b6ff&point=ffffff&area=true&area_color=1a3a5c&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
+<br/>
+
+---
+
+### Trophies
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kratos999-athena&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+---
+
+### Profile Summary
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kratos999-athena&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
+
+<br/>
+
+---
+
+### Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kratos999-athena/kratos999-athena/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kratos999-athena/kratos999-athena/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kratos999-athena/kratos999-athena/output/github-contribution-grid-snake.svg" />
+</picture>
+
+> To activate: add `.github/workflows/snake.yml` using [Platane/snk](https://github.com/Platane/snk) — it auto-generates the snake from your contribution graph every 24h.
+
+</div>
+
+<br/>
+
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20,24&height=120&section=footer&animation=fadeIn)](https://github.com/kratos999-athena)
