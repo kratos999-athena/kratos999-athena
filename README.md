@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="AARUSH_AGARWAL_CV.pdf" target="_blank">
+  <a href="Aarush_Agarwal_CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/-Download_CV-20232A?style=for-the-badge&logo=Read.cv&logoColor=white&color=000000" alt="Download CV" />
   </a>
   <a href="https://linkedin.com/in/aarushagarwal2005" target="_blank">
