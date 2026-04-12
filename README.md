@@ -137,18 +137,6 @@ motto       : "First, make it work. Then make it right. Then make it fast."
 
 ---
 
-### Trophies
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kratos999-athena&theme=algolia&no-frame=true&no-bg=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
----
-
 ### Profile Summary
 
 <div align="center">
