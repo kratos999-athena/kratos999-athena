@@ -91,20 +91,22 @@
 
 ---
 
-##  GitHub Analytics
+---
+
+## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kratos999-athena&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=38B6FF&icon_color=38B6FF" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kratos999-athena&theme=react&hide_border=true&background=0D1117&ring=38B6FF&fire=38B6FF&currStreakLabel=38B6FF" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kratos999-athena&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=38B6FF&icon_color=38B6FF&v=1" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kratos999-athena&theme=react&hide_border=true&background=0D1117&ring=38B6FF&fire=38B6FF&currStreakLabel=38B6FF&v=1" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kratos999-athena&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=38B6FF" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kratos999-athena&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=38B6FF&v=1" width="60%" />
 </div>
 
 ---
 
 <p align="center">
   <i>Visitors</i><br>
-  <img src="https://profile-counter.glitch.me/kratos999-athena/count.svg" />
+  <img src="https://profile-counter.glitch.me/kratos999-athena/count.svg?v=1" />
 </p>
