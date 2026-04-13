@@ -44,52 +44,52 @@ motto       : "First, make it work. Then make it right. Then make it fast."
 ---
 
 ### Technical Stack
-
+ 
 **Languages**
-
-[![Skills](https://skillicons.dev/icons?i=python,cpp,c,java&theme=dark)](https://skillicons.dev)
-&nbsp;&nbsp;
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
+ 
 <br/>
-
+ 
 **AI & Machine Learning**
-
-[![Skills](https://skillicons.dev/icons?i=tensorflow&theme=dark)](https://skillicons.dev)
-&nbsp;&nbsp;
+ 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0A0A0A?style=flat-square&logoColor=white)
 ![GraphRAG](https://img.shields.io/badge/GraphRAG-5B21B6?style=flat-square)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
+ 
 <br/>
-
+ 
 **Data Science**
-
+ 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
-
+ 
 <br/>
-
+ 
 **Databases & Vector Stores**
-
-[![Skills](https://skillicons.dev/icons?i=postgres&theme=dark)](https://skillicons.dev)
-&nbsp;&nbsp;
+ 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4F00?style=flat-square)
-
+ 
 <br/>
-
+ 
 **Dev & Operations**
-
-[![Skills](https://skillicons.dev/icons?i=docker,git&theme=dark)](https://skillicons.dev)
-&nbsp;&nbsp;
+ 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
+ 
 <br/>
 
 ---
@@ -108,19 +108,13 @@ motto       : "First, make it work. Then make it right. Then make it fast."
 ---
 
 ### GitHub Analytics
-
+ 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kratos999-athena&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38B6FF&icon_color=38B6FF&text_color=c9d1d9" width="48%" />
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kratos999-athena&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38B6FF&fire=38B6FF&currStreakLabel=38B6FF" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kratos999-athena&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38B6FF&text_color=c9d1d9&langs_count=8" width="55%" />
-
+ 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kratos999-athena&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38B6FF&fire=38B6FF&currStreakLabel=38B6FF" width="60%" />
+ 
 </div>
-
+ 
 <br/>
 
 ---
